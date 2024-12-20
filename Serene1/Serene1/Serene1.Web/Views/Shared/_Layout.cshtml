@@ -12,6 +12,10 @@
     <partial name="@MVC.Views.Shared._LayoutHead" />
     @RenderSection("Head", false)
     <title>@(ViewData["Title"]) - Serene1</title>
+    <!-- Syncfusion ASP.NET Core controls styles -->
+    <link rel="stylesheet" href="https://cdn.syncfusion.com/ej2/28.1.33/fluent.css" />
+    <!-- Syncfusion ASP.NET Core controls scripts -->
+    <script src="https://cdn.syncfusion.com/ej2/28.1.33/dist/ej2.min.js"></script>
 </head>
 <body id="s-@(ViewData["PageId"])Page" class="@(ViewData["BodyClass"]) @(sidebarPaneCollapsed)">
 <div id="PageBackground" style="display: none"></div>
@@ -44,5 +48,6 @@ else
         </section>
     </main>
 }
+    <ejs-scripts></ejs-scripts>
 </body>
 </html>
