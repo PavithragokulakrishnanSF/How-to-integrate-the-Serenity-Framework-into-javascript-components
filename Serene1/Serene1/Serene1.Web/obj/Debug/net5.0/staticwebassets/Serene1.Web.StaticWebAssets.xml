@@ -1,7 +1,0 @@
-﻿<StaticWebAssets Version="1.0">
-  <ContentRoot BasePath="/Serenity.Assets" Path="C:\Users\RagunathSukumaran\.nuget\packages\serenity.assets\5.2.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="/Serenity.Demo.BasicSamples" Path="C:\Users\RagunathSukumaran\.nuget\packages\serenity.demo.basicsamples\5.2.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="/Serenity.Demo.Northwind" Path="C:\Users\RagunathSukumaran\.nuget\packages\serenity.demo.northwind\5.2.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="/Serenity.Extensions" Path="C:\Users\RagunathSukumaran\.nuget\packages\serenity.extensions\5.2.2\build\..\staticwebassets\" />
-  <ContentRoot BasePath="/Serenity.Scripts" Path="C:\Users\RagunathSukumaran\.nuget\packages\serenity.scripts\5.2.4\build\..\staticwebassets\" />
-</StaticWebAssets>
